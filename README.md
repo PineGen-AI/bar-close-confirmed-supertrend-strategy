@@ -1,0 +1,1 @@
+# bar-close-confirmed-supertrend-strategy
